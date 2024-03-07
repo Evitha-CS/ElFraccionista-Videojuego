@@ -22,7 +22,7 @@ El proyecto fué desarrollado en **Unity** en su versión ***2021.3.30f1***, se 
 
 - Al dar en ***CREATE*** se deberá copiar el ***APP ID*** generado y regresar nuevamente a ***Unity***
 ![](https://github.com/Evitha-CS/ElFraccionista-Videojuego/blob/main/Readme_images/App_ID.png)
-- Una vez en ***Unity*** es que dirigirse a Window - > Photon Unity Networking - > PUN Wizard e pegar la ***APP ID*** antes copiada
+- Una vez en ***Unity*** es que dirigirse a Window - > Photon Unity Networking - > PUN Wizard y pegar la ***APP ID*** antes copiada
 
 ![](https://github.com/Evitha-CS/ElFraccionista-Videojuego/blob/main/Readme_images/PUN_Wizard-Setup.png)
 
