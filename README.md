@@ -7,3 +7,6 @@ El proyecto fué desarrollado en **Unity** en su versión ***2021.3.30f1***, se 
 ## Configuraciones necesarias
 
 Una vez instalado Unity en su versión recomendada solo es necesario abrir la carpeta *ElFraccionista-Videojuego* desde ***Unity Hub*** (Se instala junto con la versión de Unity)
+
+
+Cuando el proyecto haya abierto se deberá configuar Photon Unity Networking
