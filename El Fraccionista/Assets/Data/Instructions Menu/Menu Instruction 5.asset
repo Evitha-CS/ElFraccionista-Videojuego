@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faf18b967b9b38e42a2ff6e5fa879454, type: 3}
+  m_Name: Menu Instruction 5
+  m_EditorClassIdentifier: 
+  text: "Este c\xEDrculo te muestra el n\xFAmero de movimientos que puedes realizar.
+    Podr\xE1s realizar hasta un m\xE1ximo de 3 movimientos por turno."
+  extraInstructionObject: {fileID: 6388675937816626179, guid: 2f1be27fb4413ec4896aca40f23f5b6a,
+    type: 3}

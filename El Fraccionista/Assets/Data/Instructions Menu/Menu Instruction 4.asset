@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faf18b967b9b38e42a2ff6e5fa879454, type: 3}
+  m_Name: Menu Instruction 4
+  m_EditorClassIdentifier: 
+  text: Al lado de la reserva, hay un contenedor que te permite almacenar bloques
+    morados de 1/8. Puedes almacenar hasta 4 bloques.
+  extraInstructionObject: {fileID: 8159847784599862387, guid: c82d06411f2088344b9e85fc7d111904,
+    type: 3}

@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Block
+  - Stacked Block
+  - Grabbed Block
+  - Released Block
+  - On Stack Block
+  - Stacking Block
+  - Remaining Movements
+  - Block Stack
+  - Merging Block
+  - Stacked Grabbed Block
+  - Stacked Moved Block
+  - Tutor
+  - Turn Displayer
+  - Instructions Menu
+  - Player 1's Name
+  - Player 2's Name
+  - Start Next Turn Button
+  - Adding Block
+  - Victory Label
+  - Block Stack P1
+  - Block Stack P2
+  - Player1
+  - Player2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Blocks
+  - Stack
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
