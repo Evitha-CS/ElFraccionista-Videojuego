@@ -43,5 +43,9 @@ Finalmente se debe presionar ***Setup Project*** y ya estará todo configurado p
   #### Paso 2:
   - Hacer la build a WEBGL, asegurandose de que todas las escenas estén seleccionadas
     
+  ![](https://github.com/Evitha-CS/ElFraccionista-Videojuego/blob/main/Readme_images/Build_WebGL.png)
+
   #### Paso 3:
   - Una vez hecha la build, se debe reemplazar la carpeta ***build*** anterior por la actual que se encuentra guardada dentro de la carpeta ***public*** en el proyecto de la aplicación web.
+ 
+  ![](https://github.com/Evitha-CS/ElFraccionista-Videojuego/blob/main/Readme_images/public_appWEB.png)
