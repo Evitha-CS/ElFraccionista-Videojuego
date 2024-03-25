@@ -35,4 +35,13 @@ Finalmente se debe presionar ***Setup Project*** y ya estará todo configurado p
 - En el caso de que se quiera alojar en un servidor web, es necesario que se cambien algunas lineas de código para que el videojuego pueda enviar y recibir información correctamente desde la aplicación web:
 
   #### Paso 1:
-  - Se deben cambiar las rutas en donde se guardan los datos de las partidas en las clases: ControlStartGame, VictoryManager y RoomUtilities
+  - Se deben cambiar las rutas en donde se guardan los datos de las partidas en las clases: ControlStartGame, VictoryManager y RoomUtilities:
+    
+  ![](https://github.com/Evitha-CS/ElFraccionista-Videojuego/blob/main/Readme_images/Cambiar_Rutas.png)
+  ![](https://github.com/Evitha-CS/ElFraccionista-Videojuego/blob/main/Readme_images/Cambiar_Rutas2.png)
+
+  #### Paso 2:
+  - Hacer la build a WEBGL, asegurandose de que todas las escenas estén seleccionadas
+    
+  #### Paso 3:
+  - Una vez hecha la build, se debe reemplazar la carpeta ***build*** anterior por la actual que se encuentra guardada dentro de la carpeta ***public*** en el proyecto de la aplicación web.
