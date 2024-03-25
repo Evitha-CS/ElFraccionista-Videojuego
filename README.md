@@ -29,3 +29,10 @@ El proyecto fué desarrollado en **Unity** en su versión ***2021.3.30f1***, se 
 Finalmente se debe presionar ***Setup Project*** y ya estará todo configurado para utilizar el videojuego. :smile:
 
 **NOTA:** Al estar utilizando ***Photon Unity Networking*** en una versión de prueba solo es posible que se conecten 20 usuarios simultaneamente, en el caso de que quieran ingresar más usuarios es que usar la versión de paga, o bien usar otro método para que el videojuego sea multijugador, lo cual no es recomendable, ya que requerirá editar todas las clases que utilicen librerias de Photon.
+
+## Pasos a seguir antes de alojar en servidor 
+
+- En el caso de que se quiera alojar en un servidor web, es necesario que se cambien algunas lineas de código para que el videojuego pueda enviar y recibir información correctamente desde la aplicación web:
+
+  #### Paso 1:
+  - Se deben cambiar las rutas en donde se guardan los datos de las partidas en las clases: ControlStartGame, VictoryManager y RoomUtilities
